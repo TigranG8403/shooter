@@ -5,6 +5,7 @@
 #License: Creative Commons
 
 #---
+
 #Ru
 
 #Exe файл находится в папке "main". 
