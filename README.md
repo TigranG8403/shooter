@@ -2,7 +2,7 @@
 
 #The exe file is located in the "main" folder. 
 
-#License: Creative Commons
+#License: "Creative Commons"
 
 #---
 
