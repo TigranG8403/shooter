@@ -1,3 +1,20 @@
+#GitHib repository:
+#https://github.com/TigranG8403/shooter/
+
+#En
+#The exe file is located in the "main" folder.
+#License: "Creative Commons"
+#Read the "README.rd" file in the GitHub repository.
+
+#---Ru/En
+
+#Ru
+#Exe файл находится в папке "main".
+#Лицензия: "Creative Commons"
+#Прочитайте файл "README.rd" в репозитории GitHub.
+
+
+#-----------------
 #Импортируем PyGame и randint
 #Importing PyGame and randint
 from pygame import * #PyGame
@@ -27,7 +44,7 @@ class GameSprite(sprite.Sprite):
     #Отображение созданных нами объектов
     #Display of objects created by us
     def visibility(self):
-        okno.blit(self.image,(self.rect.x, self.rect.y)) #Отображение объектов в окне
+        okno.blit(self.image,(self.rect.x, self.rect.y)) #Отображение объектов в окне #Displaying objects in the window
 
 #Создаем дочерний класс супер-класса GameSprite для управления персонажем
 #Creating a child class of the GameSprite super class to control the character
