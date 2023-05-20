@@ -2,14 +2,14 @@
 #https://github.com/TigranG8403/shooter/
 
 #En
-#The exe file is located in the "main" folder.
+#The .exe file is located in the "main" folder.
 #License: "Creative Commons"
 #Read the "README.rd" file in the GitHub repository.
 
 #---Ru/En
 
 #Ru
-#Exe файл находится в папке "main".
+#.exe файл находится в папке "main".
 #Лицензия: "Creative Commons"
 #Прочитайте файл "README.rd" в репозитории GitHub.
 
@@ -206,13 +206,13 @@ while game:
 #https://github.com/TigranG8403/shooter/
 
 #En
-#The exe file is located in the "main" folder.
+#The .exe file is located in the "main" folder.
 #License: "Creative Commons"
 #Read the "README.rd" file in the GitHub repository.
 
 #---Ru/En
 
 #Ru
-#Exe файл находится в папке "main".
+#.exe файл находится в папке "main".
 #Лицензия: "Creative Commons"
 #Прочитайте файл "README.rd" в репозитории GitHub.
